@@ -17,4 +17,4 @@ python dorking.py --query "inurl:/page.php?id=" --page 5 --time 5 --save example
 NOTE : pakailah tanda kutip (")
 ```
 
-> Support me!! [clik here](https://www.youtube.com/channel/UCEg3T9hyhlkDkTPf_kGo4ow)
+> Support me!! [Clik here](https://www.youtube.com/channel/UCEg3T9hyhlkDkTPf_kGo4ow)
